@@ -8,7 +8,6 @@
 Many times when I am working on some project and want to share my terminal output with someone.
 The process included taking the screenshot using the keyboard shortcut, finding the screenshot, copying the screenshot and then finally sharing.
 I thought why not create a small utility to make the process shorter and hence I created this.
-
 To that end, I use this utility to generate and share screenshots of my terminal.
 
 ## Example
@@ -36,3 +35,6 @@ There are no options available as of now.
 
 ## License
 See `LICENSE`.
+
+## Suport
+Only MacOS is supported for now. I will add support for other OS soon.
